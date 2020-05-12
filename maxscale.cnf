@@ -29,19 +29,19 @@ address=0.0.0.0
 #######################
 [db1]
 type=server
-address=172.17.0.6
+address=dbgc1
 port=3306
 protocol=MariaDBBackend
 
 [db2]
 type=server
-address=172.17.0.7
+address=dbgc2
 port=3306
 protocol=MariaDBBackend
 
 [db3]
 type=server
-address=172.17.0.8
+address=dbgc3
 port=3306
 protocol=MariaDBBackend
 
