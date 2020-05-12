@@ -1,0 +1,3 @@
+# Enough to put this into one of the db-servers
+# GALERA saved state
+safe_to_bootstrap: 1
